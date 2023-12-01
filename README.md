@@ -13,6 +13,8 @@ When upstream maintainers add support for an additional registry, the images her
 | Name                                       | Upstream Issue                                                                                                                                   |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [gitea](https://github.com/go-gitea/gitea) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/go-gitea/gitea/22922)](https://github.com/go-gitea/gitea/issues/22922) |
+| [intel-deviceplugin-operator](https://github.com/intel/intel-device-plugins-for-kubernetes) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/intel/intel-device-plugins-for-kubernetes/633)](https://github.com/intel/intel-device-plugins-for-kubernetes/issues/633) |
+| [intel-gpu-plugin](https://github.com/intel/intel-device-plugins-for-kubernetes) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/intel/intel-device-plugins-for-kubernetes/633)](https://github.com/intel/intel-device-plugins-for-kubernetes/issues/633) |
 
 ## Docker OSS Program
 
@@ -24,3 +26,5 @@ Certain containers may not be rate limited if they are in Docker Hub's OSS Progr
 - intel/intel-gpu-plugin
 - nodered/node-red
 - rook/ceph
+
+Even though most of them can be fetched from different sources (like bitnami or rook-ceph), the ones which are not available, still may be monitored here.
