@@ -10,11 +10,12 @@ This is to get around Docker Hub rate-limiting (100 pulls / 6 hours, or authenti
 
 When upstream maintainers add support for an additional registry, the images here will be purged after awhile.
 
-| Name                                       | Upstream Issue                                                                                                                                   |
-|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [gitea](https://github.com/go-gitea/gitea) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/go-gitea/gitea/22922)](https://github.com/go-gitea/gitea/issues/22922) |
+| Name                                                                                        | Upstream Issue                                                                                                                                                                                     |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [gitea](https://github.com/go-gitea/gitea)                                                  | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/go-gitea/gitea/22922)](https://github.com/go-gitea/gitea/issues/22922)                                                   |
+| [gotenberg](https://github.com/gotenberg/gotenberg)                                         |                                                                                                                                                                                                    |
 | [intel-deviceplugin-operator](https://github.com/intel/intel-device-plugins-for-kubernetes) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/intel/intel-device-plugins-for-kubernetes/633)](https://github.com/intel/intel-device-plugins-for-kubernetes/issues/633) |
-| [intel-gpu-plugin](https://github.com/intel/intel-device-plugins-for-kubernetes) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/intel/intel-device-plugins-for-kubernetes/633)](https://github.com/intel/intel-device-plugins-for-kubernetes/issues/633) |
+| [intel-gpu-plugin](https://github.com/intel/intel-device-plugins-for-kubernetes)            | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/intel/intel-device-plugins-for-kubernetes/633)](https://github.com/intel/intel-device-plugins-for-kubernetes/issues/633) |
 
 ## Docker OSS Program
 
