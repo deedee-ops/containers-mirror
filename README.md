@@ -21,6 +21,7 @@ When upstream maintainers add support for an additional registry, the images her
 | [intel-deviceplugin-operator](https://github.com/intel/intel-device-plugins-for-kubernetes) | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/intel/intel-device-plugins-for-kubernetes/633)](https://github.com/intel/intel-device-plugins-for-kubernetes/issues/633) |
 | [intel-gpu-plugin](https://github.com/intel/intel-device-plugins-for-kubernetes)            | [![GitHub issue status](https://img.shields.io/github/issues/detail/state/intel/intel-device-plugins-for-kubernetes/633)](https://github.com/intel/intel-device-plugins-for-kubernetes/issues/633) |
 | [omada-controller](https://github.com/mbentley/docker-omada-controller)                     |                                                                                                                                                                                                    |
+| [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller)           |                                                                                                                                                                                                    |
 
 ## Docker OSS Program
 
