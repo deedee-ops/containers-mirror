@@ -14,7 +14,7 @@ name: "Renovate"
         default: "debug"
         required: false
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0 * * * *"
   push:
     branches:
       - master
