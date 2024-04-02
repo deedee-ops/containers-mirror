@@ -1,1 +1,1 @@
-FROM docker.io/gitea/act_runner:0.2.8-dind-rootless
+FROM docker.io/gitea/act_runner:0.2.9-dind-rootless
