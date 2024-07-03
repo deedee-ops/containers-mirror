@@ -1,1 +1,1 @@
-FROM docker.io/mbentley/omada-controller:5.13-chromium@sha256:16755382373a0451b9e46701de68e2f2dff3a4f832cb9b2c94332f46e8e94411
+FROM docker.io/mbentley/omada-controller:5.13-chromium@sha256:f26819b6840712312ad859da4c9f9dce5dbec8f1d64134188e88e0fd2fea71f4
