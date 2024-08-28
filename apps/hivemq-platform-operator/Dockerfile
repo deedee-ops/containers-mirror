@@ -1,1 +1,1 @@
-FROM docker.io/hivemq/hivemq-platform-operator:1.5.1
+FROM docker.io/hivemq/hivemq-platform-operator:1.5.2
