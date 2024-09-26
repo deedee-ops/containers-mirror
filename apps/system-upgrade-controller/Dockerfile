@@ -1,1 +1,1 @@
-FROM docker.io/rancher/system-upgrade-controller:v0.13.4
+FROM docker.io/rancher/system-upgrade-controller:v0.14.0
