@@ -1,1 +1,1 @@
-FROM docker.io/1337kavin/piped-proxy:latest@sha256:786f146e03de59d597b6cf21d618b2c4df4fe994fe30ed64e3cc9972d0d5f1ff
+FROM docker.io/1337kavin/piped-proxy:latest@sha256:95edeada7d984d123005d04f53a7ca174c201bcc1a8b1a2e7eb09cce415f1f9a
