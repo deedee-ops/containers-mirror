@@ -1,1 +1,1 @@
-FROM docker.io/intel/intel-deviceplugin-operator:0.31.1
+FROM docker.io/intel/intel-deviceplugin-operator:0.32.0
