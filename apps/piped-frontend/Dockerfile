@@ -1,1 +1,1 @@
-FROM docker.io/1337kavin/piped-frontend:latest@sha256:0d6e619ce68fbc52c567ac209a7038c506f6474dc5c45448e4f6a1d1bb6249f7
+FROM docker.io/1337kavin/piped-frontend:latest@sha256:559a694d5ff2cc3a77fedeefd3d11f42028ffc44625141b5268cd4b6e311a18b
