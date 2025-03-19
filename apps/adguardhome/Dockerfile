@@ -1,1 +1,1 @@
-FROM docker.io/adguard/adguardhome:v0.107.57
+FROM docker.io/adguard/adguardhome:v0.107.58
