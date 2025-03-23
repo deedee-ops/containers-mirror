@@ -76,6 +76,7 @@ jobs:
               container_version=$(cut -d'@' -f1 <<< "${container_version}")
           fi
           echo "container-version=${container_version}" >> "${GITHUB_OUTPUT}"
+          echo "container-parsed-version=$(echo "${container_version}" | sed -E 's@[^0-9]*-(v?[0-9.]+.*)@\1@g')" >> "${GITHUB_OUTPUT}"
 
           container_platform=$(cat ./apps/${container_name}/PLATFORM)
           echo "container-platform=${container_platform}" >> "${GITHUB_OUTPUT}"
@@ -102,4 +103,4 @@ jobs:
           file: ./apps/${{ steps.prep.outputs.container-name }}/Dockerfile
           push: true
           tags: |
-            ${{ env.IMAGE_REGISTRY }}/${{ github.repository_owner }}/${{ steps.prep.outputs.container-name }}:${{ steps.prep.outputs.container-version }}
+            ${{ env.IMAGE_REGISTRY }}/${{ github.repository_owner }}/${{ steps.prep.outputs.container-name }}:${{ steps.prep.outputs.container-parsed-version }}
