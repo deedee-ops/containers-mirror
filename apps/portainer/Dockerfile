@@ -1,1 +1,1 @@
-FROM docker.io/portainer/portainer-ce:2.28.1-alpine
+FROM docker.io/portainer/portainer-ce:2.29.0-alpine
