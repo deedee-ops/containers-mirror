@@ -1,1 +1,1 @@
-FROM docker.io/niruix/sshwifty:0.3.24-beta-release
+FROM docker.io/niruix/sshwifty:0.3.25-beta-release
