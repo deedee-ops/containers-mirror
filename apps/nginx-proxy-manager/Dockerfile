@@ -1,1 +1,1 @@
-FROM docker.io/jc21/nginx-proxy-manager:2.13.4
+FROM docker.io/jc21/nginx-proxy-manager:2.13.5
