@@ -1,1 +1,1 @@
-FROM docker.io/gilleslamiral/imapsync:2.306
+FROM docker.io/gilleslamiral/imapsync:2.319
